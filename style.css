@@ -1,0 +1,42 @@
+.heading{
+    box-shadow: 5px 5px 5px gray;
+    font-size:30; 
+    width:100%;
+    margin:0;
+}
+
+.divHeading{
+    font-size:25;
+    padding:10;
+    float:none;
+    border-radius:40;
+    color:black;
+
+}
+
+.divHeading2{
+    font-size:20;
+}
+
+.resultsTag{
+    box-shadow:5px 5px 20px #55d2e6;
+    float:none !important;
+}
+
+.crFooter{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color:white;
+    background-color:black;
+    line-height:3px;
+    text-align:center;
+}
+canvas{
+    background-color:rgb(200, 141, 241);
+    border-color:rgb(200, 141, 241);
+    border-radius:45px;
+    margin-top:150px;
+    border-width:3px;
+    border-style:solid;
+}
